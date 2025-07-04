@@ -1,42 +1,46 @@
 # Capstone-Project-Data-Classification-and-Summarization-Using-IBM-Granite
 Analisis Data Bencana Indonesia 2010–2024
 
-# 📊 Analisis Tren Kejadian Bencana di Indonesia (2010–2024)
+📊 Analisis Tren Kejadian Bencana di Indonesia (2010–2024)
+🗂️ Project Overview
+Proyek ini dibuat untuk memahami pola dan tren kejadian bencana alam di berbagai provinsi di Indonesia selama periode 2010 hingga 2024. Data yang digunakan berasal dari sumber resmi yaitu Badan Nasional Penanggulangan Bencana (BNPB), yang mencatat jumlah kejadian bencana per provinsi setiap tahun.
+Melalui analisis ini, diharapkan dapat terlihat wilayah mana yang paling sering terdampak bencana, bagaimana tren kejadian berubah dari waktu ke waktu, dan apa yang bisa dilakukan untuk mendukung upaya mitigasi bencana ke depan.
 
-## 📁 Project Overview
-Proyek ini bertujuan untuk menganalisis tren kejadian bencana alam di seluruh provinsi di Indonesia dari tahun 2010 hingga 2024. Dengan memanfaatkan data publik dari Badan Nasional Penanggulangan Bencana (BNPB), proyek ini menggambarkan pola kenaikan/penurunan bencana secara nasional maupun provinsi. Analisis ini bertujuan untuk memberikan insight mendalam dan rekomendasi konkret untuk mitigasi risiko bencana.
+📁 Raw Dataset
+📌 Download Dataset Excel - Kejadian Bencana Menurut Provinsi (2010–2024)
 
-## 🔗 Raw Dataset Link
-[📂 Download Dataset Excel - Jumlah Kejadian Bencana menurut Provinsi (2010–2024)](https://drive.google.com/your-dataset-link-di-sini)
+Jika dataset ini juga diunggah ke repositori GitHub, silakan ganti link di atas dengan path file dari repo.
 
-> 📝 Catatan: Jika kamu upload ke GitHub, ganti dengan link ke file `.xlsx` di repo kamu.
+🔍 Insight & Temuan
+Tren Nasional
+Secara umum, jumlah kejadian bencana mengalami peningkatan dalam beberapa tahun terakhir. Tahun 2020 dan 2021 menjadi periode dengan lonjakan tertinggi.
 
-## 📈 Insight & Findings
+Provinsi Paling Sering Terdampak
+Tiga provinsi dengan total kejadian bencana tertinggi selama 15 tahun terakhir adalah:
 
-1. 📅 **Tren Nasional Meningkat**  
-   Jumlah kejadian bencana secara nasional mengalami peningkatan yang signifikan terutama pada tahun 2020 dan 2021.
+Jawa Tengah
 
-2. 📍 **Provinsi Paling Rawan**  
-   Provinsi dengan jumlah kejadian bencana terbanyak adalah:
-   - Jawa Tengah
-   - Jawa Barat
-   - Aceh
+Jawa Barat
 
-3. 🌡️ **Heatmap Menunjukkan Konsistensi**  
-   Beberapa provinsi seperti NTT, Kalimantan Timur, dan Papua menunjukkan pola bencana yang cenderung konsisten setiap tahun.
+Aceh
+Ketiganya cenderung memiliki risiko tinggi akibat kepadatan penduduk, geografis, dan cuaca ekstrem.
 
-4. 📉 **Beberapa Provinsi Stabil / Menurun**  
-   Sebagian provinsi menunjukkan penurunan jumlah bencana dalam beberapa tahun terakhir, menunjukkan keberhasilan mitigasi lokal.
+Pola Tahunan yang Konsisten
+Beberapa wilayah seperti Nusa Tenggara Timur (NTT), Kalimantan Timur, dan Papua menunjukkan pola kejadian yang stabil dari tahun ke tahun.
 
-## 🧠 AI Support Explanation
-Model AI (Large Language Model seperti ChatGPT) digunakan untuk membantu:
-- **Menyusun insight** dari grafik dan hasil analisis
-- **Menyederhanakan temuan teknis** menjadi narasi yang mudah dipahami
-- **Memberikan saran rekomendasi berdasarkan pola data**
-- (Opsional) Bisa digunakan juga untuk klasifikasi jenis bencana atau prediksi tren masa depan jika dataset tersedia
+Penurunan di Beberapa Wilayah
+Provinsi seperti Bengkulu dan Kepulauan Riau menunjukkan penurunan jumlah bencana dalam 5 tahun terakhir, yang bisa menjadi sinyal positif dari upaya mitigasi daerah.
 
-AI tidak digunakan untuk menghitung angka, tetapi untuk **mendukung pemahaman dan pelaporan hasil analisis secara logis dan efisien**.
+🤖 Peran AI dalam Proyek
+Model AI berbasis bahasa alami (seperti ChatGPT) digunakan sebagai alat bantu untuk:
 
+Menyusun ringkasan dari hasil analisis data
+
+Mengubah temuan teknis menjadi penjelasan yang mudah dipahami
+
+Menyusun rekomendasi berdasarkan pola yang ditemukan
+
+AI tidak digunakan untuk melakukan penghitungan atau pemrosesan data, melainkan untuk membantu menjelaskan hasil secara ringkas dan informatif.
 ---
 
 📌 Proyek ini dikerjakan menggunakan Google Colab dan disimpan pada repositori GitHub sebagai bagian dari Capstone Project IBM SkillsBuild x Kode.id.
