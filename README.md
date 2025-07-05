@@ -16,5 +16,8 @@ Melalui analisis ini, diharapkan dapat terlihat wilayah mana yang paling sering 
 4. Penurunan di Beberapa Wilayah: Provinsi seperti Bengkulu dan Kepulauan Riau menunjukkan penurunan jumlah bencana dalam 5 tahun terakhir, yang bisa menjadi sinyal positif dari upaya mitigasi daerah.
 
 - AI Support Explanation
-
-
+Model AI berbasis bahasa alami (seperti ChatGPT) digunakan sebagai alat bantu untuk:
+1. Menyusun ringkasan dari hasil analisis data
+2. Mengubah temuan teknis menjadi penjelasan yang mudah dipahami
+3. Menyusun rekomendasi berdasarkan pola yang ditemukan
+AI tidak digunakan untuk melakukan penghitungan atau pemrosesan data, melainkan untuk membantu menjelaskan hasil secara ringkas dan informatif.
