@@ -20,4 +20,5 @@ Model AI berbasis bahasa alami (seperti ChatGPT) digunakan sebagai alat bantu un
 1. Menyusun ringkasan dari hasil analisis data
 2. Mengubah temuan teknis menjadi penjelasan yang mudah dipahami
 3. Menyusun rekomendasi berdasarkan pola yang ditemukan
+
 AI tidak digunakan untuk melakukan penghitungan atau pemrosesan data, melainkan untuk membantu menjelaskan hasil secara ringkas dan informatif.
