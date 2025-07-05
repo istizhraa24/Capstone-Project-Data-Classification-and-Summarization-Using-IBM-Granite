@@ -1,5 +1,5 @@
 # Capstone-Project-Data-Classification-and-Summarization-Using-IBM-Granite
-- Title Project>: Analisis Tren Kejadian Bencana di Indonesia (2010–2024)
+- Title Project: Analisis Tren Kejadian Bencana di Indonesia (2010–2024)
 - Project Overview
 - Raw Dataset Link
 - Insight & Findings
