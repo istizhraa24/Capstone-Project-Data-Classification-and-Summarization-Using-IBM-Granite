@@ -8,18 +8,12 @@ Melalui analisis ini, diharapkan dapat terlihat wilayah mana yang paling sering 
   
 - Insight & Findings
 1. Tren Nasional: Secara umum jumlah kejadian bencana mengalami peningkatan dalam beberapa tahun terakhir. Tahun 2020 dan 2021 menjadi periode dengan lonjakan tertinggi.
-2. Provinsi Paling Sering Terdampak: Tiga provinsi dengan total kejadian bencana tertinggi selama 15 tahun terakhir yang cenderung memiliki risiko tinggi akibat kepadatan penduduk,geografis, dan cuaca ekstrem. adalah:
+2. Provinsi Paling Sering Terdampak: Tiga provinsi dengan total kejadian bencana tertinggi selama 15 tahun terakhir yang cenderung memiliki risiko tinggi akibat kepadatan penduduk,geografis, dan cuaca ekstrem adalah:
     - Jawa Tengah
     - Jawa Barat
     - Aceh
-
-
-Pola Tahunan yang Konsisten
-Beberapa wilayah seperti Nusa Tenggara Timur (NTT), Kalimantan Timur, dan Papua menunjukkan pola kejadian yang stabil dari tahun ke tahun.
-
-Penurunan di Beberapa Wilayah
-Provinsi seperti Bengkulu dan Kepulauan Riau menunjukkan penurunan jumlah bencana dalam 5 tahun terakhir, yang bisa menjadi sinyal positif dari upaya mitigasi daerah.
-
+3. Pola Tahunan yang Konsisten: Beberapa wilayah seperti Nusa Tenggara Timur (NTT), Kalimantan Timur, dan Papua menunjukkan pola kejadian yang stabil dari tahun ke tahun.
+4. Penurunan di Beberapa Wilayah: Provinsi seperti Bengkulu dan Kepulauan Riau menunjukkan penurunan jumlah bencana dalam 5 tahun terakhir, yang bisa menjadi sinyal positif dari upaya mitigasi daerah.
 
 - AI Support Explanation
 
