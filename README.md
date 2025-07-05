@@ -7,12 +7,11 @@ Melalui analisis ini, diharapkan dapat terlihat wilayah mana yang paling sering 
 - Raw Dataset Link: https://github.com/istizhraa24/Capstone-Project-Data-Classification-and-Summarization-Using-IBM-Granite/blob/main/jumlah-kejadian-bencana-menurut-provinsi-tahun-2010-2024.xlsx
   
 - Insight & Findings
-  =
-1. Tren Nasional: Secara umum jumlah kejadian bencana mengalami peningkatan dalam beberapa tahun terakhir. Tahun 2020 dan 2021 menjadi periode dengan lonjakan tertinggi.
-2. Provinsi Paling Sering Terdampak: Tiga provinsi dengan total kejadian bencana tertinggi selama 15 tahun terakhir yang cenderung memiliki risiko tinggi akibat kepadatan penduduk, geografis, dan cuaca ekstrem. adalah:
-- Jawa Tengah
-- Jawa Barat
-- Aceh
+    1. Tren Nasional: Secara umum jumlah kejadian bencana mengalami peningkatan dalam beberapa tahun terakhir. Tahun 2020 dan 2021 menjadi periode dengan lonjakan tertinggi.
+    2. Provinsi Paling Sering Terdampak: Tiga provinsi dengan total kejadian bencana tertinggi selama 15 tahun terakhir yang cenderung memiliki risiko tinggi akibat kepadatan penduduk,                  geografis, dan cuaca ekstrem. adalah:
+    - Jawa Tengah
+    - Jawa Barat
+    - Aceh
 
 
 Pola Tahunan yang Konsisten
