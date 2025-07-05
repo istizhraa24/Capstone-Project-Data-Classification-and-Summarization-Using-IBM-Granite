@@ -1,7 +1,8 @@
 # Capstone-Project-Data-Classification-and-Summarization-Using-IBM-Granite
 - Title Project: Analisis Tren Kejadian Bencana di Indonesia (2010–2024)
-- Project Overview
-- Raw Dataset Link
+- Project Overview: Proyek ini dibuat untuk memahami pola dan tren kejadian bencana alam di berbagai provinsi di Indonesia selama periode 2010 hingga 2024. Data yang digunakan berasal dari sumber resmi yaitu Badan Nasional Penanggulangan Bencana (BNPB), yang mencatat jumlah kejadian bencana per provinsi setiap tahun.
+Melalui analisis ini, diharapkan dapat terlihat wilayah mana yang paling sering terdampak bencana, bagaimana tren kejadian berubah dari waktu ke waktu, dan apa yang bisa dilakukan untuk mendukung upaya mitigasi bencana ke depan.
+- Raw Dataset Link: https://github.com/istizhraa24/Capstone-Project-Data-Classification-and-Summarization-Using-IBM-Granite/blob/main/jumlah-kejadian-bencana-menurut-provinsi-tahun-2010-2024.xlsx
 - Insight & Findings
 - AI Support Explanation
 
